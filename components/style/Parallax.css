@@ -1,0 +1,10 @@
+.parallax-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.parallax-inner {
+  will-change: transform;
+  height: 100%;
+  width: 100%;
+}
