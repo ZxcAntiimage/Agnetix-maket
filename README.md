@@ -4,6 +4,8 @@
 
 This is a cutting-edge web portfolio template built with Next.js 16 and React 19, featuring advanced animations, interactive elements, and a modern dark theme design. The template is designed to showcase creative work, skills, and projects in an engaging and visually stunning way.
 
+[Demo](https://agnetix-maket.vercel.app/)
+
 ## 🛠️ Technologies & Tools Used
 
 ### Core Framework & Languages
