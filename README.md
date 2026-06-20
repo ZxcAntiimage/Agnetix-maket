@@ -100,8 +100,7 @@ template/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/portfolio-template.git
-cd portfolio-template
+git clone https://github.com/ZxcAntiimage/Agnetix-maket
 ```
 
 2. **Install dependencies:**
@@ -195,6 +194,7 @@ The template features:
 ### UI Components
 - [shadcn/ui Documentation](https://ui.shadcn.com/)
 - [Radix UI Documentation](https://www.radix-ui.com/)
+- [React Bits](https://reactbits.dev/)
 
 ## 🔧 Troubleshooting
 
